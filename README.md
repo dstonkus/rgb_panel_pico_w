@@ -4,7 +4,7 @@
 
 A CircuitPython-powered weather clock display project for the Raspberry Pi Pico W, featuring a 64x32 RGB LED matrix. The clock displays current time, date, and weather information from the Meteo.lt API.
 
-![Project Preview](placeholder-for-project-image.jpg)
+<!--[Project Preview](placeholder-for-project-image.jpg)-->!
 
 ## Features
 
